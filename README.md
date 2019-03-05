@@ -1,2 +1,2 @@
 # HEL-geodata-science
-Seminarium geoscience na Helu
+Seminarium geodata science na Helu  18-22 marca 2019
